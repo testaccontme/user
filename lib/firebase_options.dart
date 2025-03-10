@@ -18,13 +18,13 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-     apiKey: "AIzaSyDV_BuUIPw6o5azg3k7_noeoOP1wzBvRXU",
+     apiKey: "AIzaSyClWYpitGR1snow_UT5tqBPybV9CZaDaQ4",
   authDomain: "vedicbhgyaapppp.firebaseapp.com",
   databaseURL: "https://vedicbhgyaapppp-default-rtdb.firebaseio.com",
   projectId: "vedicbhgyaapppp",
   storageBucket: "vedicbhgyaapppp.firebasestorage.app",
   messagingSenderId: "1061531550536",
-  appId: "1:1061531550536:web:7f9e14440297582f59a97d",
+  appId: "1:1061531550536:android:efa57fc2769148ea59a97d",
   measurementId: "G-KEX8F8LQGM",
   );
 
