@@ -481,7 +481,7 @@ class KudliMatchingResultScreen extends StatelessWidget {
                                               //   uriPrefix: 'https://astrowaydiploy.page.link',
                                               //   link: Uri.parse("https://astrowaydiploy.page.link/userProfile?screen=astroProfile"),
                                               //   androidParameters: AndroidParameters(
-                                              //     packageName: 'com.vedicbhagya.app',
+                                              //     packageName: 'com.vedicbhagya.userapp',
                                               //     minimumVersion: 1,
                                               //   ),
                                               // );
@@ -2882,7 +2882,7 @@ class KudliMatchingResultScreen extends StatelessWidget {
                                               //   uriPrefix: 'https://astrowaydiploy.page.link',
                                               //   link: Uri.parse("https://astrowaydiploy.page.link/userProfile?screen=astroProfile"),
                                               //   androidParameters: AndroidParameters(
-                                              //     packageName: 'com.vedicbhagya.app',
+                                              //     packageName: 'com.vedicbhagya.userapp',
                                               //     minimumVersion: 1,
                                               //   ),
                                               // );

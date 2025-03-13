@@ -58,14 +58,14 @@ final DateFormat formatter = DateFormat("dd MMM yy, hh:mm a");
 
 String stripeBaseApi = 'https://api.stripe.com/v1';
 
-String baseUrl = "https://vedicbhagya.in/api";
-String imgBaseurl = "https://vedicbhagya.in/";
-String webBaseUrl = "https://vedicbhagya.in/api/";
+String baseUrl = "https://vedicbhagya.com/api";
+String imgBaseurl = "https://vedicbhagya.com/";
+String webBaseUrl = "https://vedicbhagya.com/api/";
 String appMode = "LIVE";
 Map<String, dynamic> appParameters = {
   "LIVE": {
-    "apiUrl": "https://vedicbhagya.in/api",
-    "imageBaseurl": "https://vedicbhagya.in/",
+    "apiUrl": "https://vedicbhagya.com/api",
+    "imageBaseurl": "https://vedicbhagya.com/",
   },
   "DEV": {
     "apiUrl": "http://192.168.29.223:8001/api",
@@ -149,7 +149,7 @@ Future<void> callOnFcmApiSendPushNotifications({
       }
     };
     final url = Uri.parse(
-        'https://fcm.googleapis.com/v1/projects/vedicbhgyaapppp/messages:send');
+        'https://fcm.googleapis.com/v1/projects/vedicbhagya-103cd/messages:send');
     final response = await http.post(
       url,
       headers: headers,

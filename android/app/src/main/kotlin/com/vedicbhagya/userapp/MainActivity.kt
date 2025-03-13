@@ -1,4 +1,4 @@
-package com.vedicbhagya.app
+package com.vedicbhagya.userapp
 import io.flutter.embedding.android.FlutterActivity
 import androidx.annotation.NonNull
 import io.flutter.embedding.engine.FlutterEngine
@@ -19,7 +19,7 @@ import com.google.gson.reflect.TypeToken
 import com.hiennv.flutter_callkit_incoming.CallkitConstants
 import com.otpless.otplessflutter.OtplessFlutterPlugin
 class MainActivity: FlutterActivity() {
-    private val CHANNEL_NAME = "com.vedicbhagya.app/channel_test"
+    private val CHANNEL_NAME = "com.vedicbhagya.userapp/channel_test"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

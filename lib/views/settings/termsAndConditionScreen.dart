@@ -18,7 +18,7 @@ class TermAndConditionScreen extends StatelessWidget {
           )),
       body: InAppWebView(
         initialUrlRequest: URLRequest(
-            url: WebUri('https://vedicbhagya.in/terms-condition')),
+            url: WebUri('https://vedicbhagya.com/terms-condition')),
         initialSettings: InAppWebViewSettings(
           javaScriptEnabled: true,
           transparentBackground: true,

@@ -2,7 +2,7 @@ import 'package:flutter/services.dart';
 
 class CallKitManager {
   static const MethodChannel _channel =
-      MethodChannel('com.vedicbhagya.app/channel_test');
+      MethodChannel('com.vedicbhagya.userapp/channel_test');
 
   static Future<List<dynamic>> getActiveCalls() async {
     print("start getting getActiveCalls");

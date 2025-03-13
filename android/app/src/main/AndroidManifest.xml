@@ -14,7 +14,7 @@
         android:usesCleartextTraffic="true"
         android:icon="@mipmap/ic_launcher">
         <activity
-            android:name="com.vedicbhagya.app.MainActivity"
+            android:name="com.vedicbhagya.userapp.MainActivity"
             android:exported="true"
             android:launchMode="singleTask"
             android:theme="@style/LaunchTheme"
@@ -40,15 +40,15 @@
                 <category android:name="android.intent.category.BROWSABLE"/>
                 <data
                     android:scheme="https"
-                    android:host="com.vedicbhagya.app"
+                    android:host="com.vedicbhagya.userapp"
                     />
                 <data
                     android:host="otpless"
-                    android:scheme= "otpless.A57OBN9737HZYKHXRGK2"/>
+                    android:scheme= "otpless.e77l3ms25ujsq7iolr7f"/>
             </intent-filter>
         </activity>
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyC0hkZP0M4Iw9n_2wihgYoxOnGPiSdFjCU"/>
+            android:value="AIzaSyAPpzD3T_yY_fgXdt3Jk2BMGYyGDc3I4WA"/>
         <activity
             android:name="com.yalantis.ucrop.UCropActivity"
             android:screenOrientation="portrait"

@@ -65,7 +65,7 @@ dexOptions {
     }
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId "com.vedicbhagya.app"
+        applicationId "com.vedicbhagya.userapp"
         minSdkVersion 23
         targetSdkVersion flutter.targetSdkVersion
         versionCode flutterVersionCode.toInteger()
@@ -106,7 +106,7 @@ dexOptions {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), ' proguard-rules.pro'
         }
     }
-    namespace 'com.vedicbhagya.app'
+    namespace 'com.vedicbhagya.userapp'
 
 }
 

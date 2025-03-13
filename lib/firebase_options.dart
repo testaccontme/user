@@ -18,34 +18,34 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-     apiKey: "AIzaSyClWYpitGR1snow_UT5tqBPybV9CZaDaQ4",
-  authDomain: "vedicbhgyaapppp.firebaseapp.com",
-  databaseURL: "https://vedicbhgyaapppp-default-rtdb.firebaseio.com",
-  projectId: "vedicbhgyaapppp",
-  storageBucket: "vedicbhgyaapppp.firebasestorage.app",
-  messagingSenderId: "1061531550536",
-  appId: "1:1061531550536:android:efa57fc2769148ea59a97d",
-  measurementId: "G-KEX8F8LQGM",
+     apiKey: "AIzaSyCbNtlhvURYjW5JVOEHq_mWcsaa9MqYuhQ",
+  authDomain: "vedicbhagya-103cd.firebaseapp.com",
+  databaseURL: "https://vedicbhagya-103cd-default-rtdb.firebaseio.com",
+  projectId: "vedicbhagya-103cd",
+  storageBucket: "vedicbhagya-103cd.firebasestorage.app",
+  messagingSenderId: "867662913970",
+  appId: "1:867662913970:android:15c64f9361a2e400cfc4ab",
+  measurementId: "G-K14CPWQGXF",
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: "AIzaSyDV_BuUIPw6o5azg3k7_noeoOP1wzBvRXU",
-     appId: "1:1061531550536:web:7f9e14440297582f59a97d",
-    messagingSenderId: "1061531550536",
-    projectId: "vedicbhgyaapppp",
-    storageBucket: "vedicbhgyaapppp.firebasestorage.app",
-    iosBundleId: 'com.vedicbhagya.app',
-    measurementId: "G-KEX8F8LQGM",
+    apiKey: "AIzaSyC3A04YrhzrkJR71mibXalZuiTa55Y1eyM",
+     appId: "1:867662913970:ios:29e3f1c394b16b3acfc4ab",
+    messagingSenderId: "867662913970",
+  projectId: "vedicbhagya-103cd",
+  storageBucket: "vedicbhagya-103cd.firebasestorage.app",
+    iosBundleId: 'com.vedicbhagya.userapp',
+   measurementId: "G-K14CPWQGXF",
   );
 
   static const FirebaseOptions web = FirebaseOptions(
-   apiKey: "AIzaSyDV_BuUIPw6o5azg3k7_noeoOP1wzBvRXU",
-  authDomain: "vedicbhgyaapppp.firebaseapp.com",
-databaseURL: "https://vedicbhgyaapppp-default-rtdb.firebaseio.com",
-  projectId: "vedicbhgyaapppp",
- storageBucket: "vedicbhgyaapppp.firebasestorage.app",
-  messagingSenderId: "1061531550536",
-  appId: "1:1061531550536:web:7f9e14440297582f59a97d",
-  measurementId: "G-KEX8F8LQGM"
+  apiKey: "AIzaSyB8wPq_BR6gznlURi1nc2S84xCRwoqqS3M",
+    authDomain: "vedicbhagya-103cd.firebaseapp.com",
+  databaseURL: "https://vedicbhagya-103cd-default-rtdb.firebaseio.com",
+    projectId: "vedicbhagya-103cd",
+   storageBucket: "vedicbhagya-103cd.firebasestorage.app",
+    messagingSenderId: "867662913970",
+    appId: "1:867662913970:web:5be67e0841593586cfc4ab",
+    measurementId: "G-K14CPWQGXF"
       );
 }

@@ -2,18 +2,22 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>CLIENT_ID</key>
+	<string>867662913970-2sedckbnrvniij3cn1ms9nhgobfakrpj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.867662913970-2sedckbnrvniij3cn1ms9nhgobfakrpj</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDsrsuJ2tx83rRPdTrAUKQRNhmmCTbEzxA</string>
+	<string>AIzaSyC3A04YrhzrkJR71mibXalZuiTa55Y1eyM</string>
 	<key>GCM_SENDER_ID</key>
-	<string>381086206621</string>
+	<string>867662913970</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.astrowaydiploy.user</string>
+	<string>com.vedicbhagya.userapp</string>
 	<key>PROJECT_ID</key>
-	<string>astroway-diploy</string>
+	<string>vedicbhagya-103cd</string>
 	<key>STORAGE_BUCKET</key>
-	<string>astroway-diploy.appspot.com</string>
+	<string>vedicbhagya-103cd.firebasestorage.app</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,8 +29,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:381086206621:ios:50ef1a4a2bd8342b32e274</string>
+	<string>1:867662913970:ios:29e3f1c394b16b3acfc4ab</string>
 	<key>DATABASE_URL</key>
-	<string>https://astroway-diploy-default-rtdb.firebaseio.com</string>
+	<string>https://vedicbhagya-103cd-default-rtdb.firebaseio.com</string>
 </dict>
 </plist>

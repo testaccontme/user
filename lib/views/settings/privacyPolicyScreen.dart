@@ -19,7 +19,7 @@ class PrivacyPolicyScreen extends StatelessWidget {
           )),
       body: InAppWebView(
         initialUrlRequest:
-            URLRequest(url: WebUri('https://vedicbhagya.in/privacyPolicy')),
+            URLRequest(url: WebUri('https://vedicbhagya.com/privacyPolicy')),
         initialSettings: InAppWebViewSettings(
           javaScriptEnabled: true,
           transparentBackground: true,
